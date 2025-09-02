@@ -59,5 +59,6 @@ run the pipelines.py file and wait until all the files get processed
 run the predict_stock.py and give the name of the stock to be predicted
 **Warning: This Model need to be Updated daily before running the predict_stock.py**
 **running pipelines.py Updates the Model**
+**models and data are created automatically once the pipelines.py is made to run**
 
 ## Hope you like it 😊
