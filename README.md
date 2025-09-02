@@ -65,5 +65,6 @@ run the predict_stock.py and give the name of the stock to be predicted
 **running pipelines.py Updates the Model**
 
 **models and data are created automatically once the pipelines.py is made to run**
+**move the Stockname from stockname.txt to tickers.txt before processing**
 
 ## Hope you like it 😊
