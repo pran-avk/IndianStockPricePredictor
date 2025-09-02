@@ -1,1 +1,1 @@
-OLAELECTRIC.NS
+#stockname
